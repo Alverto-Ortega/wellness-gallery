@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "wellness-gallery",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A minimal Wellness-themed gallery website for inspiration.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Alverto Ortega-Garcia <aortegacs@outlook.com>",
   "dependencies": {
     "gatsby": "^5.13.3",
     "gatsby-plugin-image": "^3.13.1",
@@ -15,6 +15,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "gatsby-cli": "^5.13.3",
+    "netlify-cli": "^17.23.2",
     "prettier": "^2.8.8"
   },
   "keywords": [
@@ -32,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/Alverto-Ortega/wellness-gallery.git"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
